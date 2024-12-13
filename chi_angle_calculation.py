@@ -1,5 +1,4 @@
 # Calculating the Chi1_Angle
-
 import MDAnalysis as mda
 from MDAnalysis.lib.distances import calc_dihedrals
 import matplotlib.pyplot as plt
