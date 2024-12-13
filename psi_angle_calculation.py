@@ -1,5 +1,4 @@
 # Calculating the Psi_Angle
-
 import MDAnalysis as mda
 from MDAnalysis.lib.distances import calc_angles
 import matplotlib.pyplot as plt
