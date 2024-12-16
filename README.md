@@ -5,7 +5,7 @@ This project focuses on analyzing the angular changes occurring in the micro-swi
 
 ---
 
-## Technologies Used
+## Essential Tools
 - **Python**
 - **MDAnalysis**
 - **Google Colab**
